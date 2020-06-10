@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550061362 source:c:\users\acer vx\desktop\fax\algoritmi i strukture podataka\projekat 2\randomiziranostablo\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+	"RandomiziranoStablo.h"
+
+1550059538 c:\users\acer vx\desktop\fax\algoritmi i strukture podataka\projekat 2\randomiziranostablo\randomiziranostablo.h
+	<random>
+
+1550060378 source:c:\users\acer vx\desktop\fax\algoritmi i strukture podataka\projekat 2\randomiziranostablo\randomiziranostablo.cpp
+	<iostream>
+	"RandomiziranoStablo.h"
+	<random>
+	<queue>
+	<iomanip>
+
